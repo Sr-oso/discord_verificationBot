@@ -1,0 +1,13 @@
+
+# Entorno virtual
+.venv/
+
+# Variables privadas
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Base de datos local
+verificaciones.db
